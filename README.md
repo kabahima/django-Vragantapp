@@ -1,4 +1,5 @@
 ![Python package](https://github.com/kabahima/django_resfulapp_WithvragantMongodb/workflows/Python%20package/badge.svg?event=deployment)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fef7ba8c04d64fb18a85b8a60f876f63)](https://app.codacy.com/gh/kabahima/django-Vragantapp?utm_source=github.com&utm_medium=referral&utm_content=kabahima/django-Vragantapp&utm_campaign=Badge_Grade)
 [![Build Status](https://travis-ci.org/kabahima/django-Vragantapp.svg?branch=develop)](https://travis-ci.org/kabahima/django-Vragantapp)
 
 # Django backend app with Mongodb and Vargant
