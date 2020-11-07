@@ -1,3 +1,5 @@
+![Python package](https://github.com/kabahima/django_resfulapp_WithvragantMongodb/workflows/Python%20package/badge.svg?event=deployment)
+
 # Django backend app with Mongodb and Vargant
 Django app developed with vagrant and mongo db as the database it is fully a backend project with endpoints
 
