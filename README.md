@@ -1,4 +1,4 @@
-# django_resfulapp_WithvragantMongodb
+# Django backend app with Mongodb and Vargant
 Django app developed with vagrant and mongo db as the database it is fully a backend project with endpoints
 
 ### What is Vargant
@@ -41,4 +41,7 @@ migrate
 that so simple and its only done once
 
 for more info find out here  [Djongo](https://www.djongomapper.com/)
+
+
+### Endpoints
 
